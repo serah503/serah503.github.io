@@ -1,9 +1,7 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
-layout: post
+author: Serah Choi
+date: 2024-09-30
 ---
 
 This is an contact page.
