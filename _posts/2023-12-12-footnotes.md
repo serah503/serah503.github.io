@@ -1,8 +1,8 @@
 ---
 title: Using Footnotes
-author: Tao He
-date: 2023-12-12
-category: Jekyll
+author: Serah Choi
+date: 2024-09-30
+category: iM뱅크 데이터 분석가
 layout: post
 mermaid: true
 ---
@@ -26,7 +26,7 @@ Meaning the next equation has no integer solutions:
 
 $$ x^n + y^n = z^n $$
 
-Long contents
+기초문법
 -------------
 
 long contents .....
