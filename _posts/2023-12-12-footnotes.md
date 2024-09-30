@@ -1,5 +1,5 @@
 ---
-title: Using Footnotes
+title: 기초 문법
 author: Serah Choi
 date: 2024-09-30
 category: iM뱅크 데이터 분석가
@@ -7,8 +7,7 @@ layout: post
 mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
-in markdown.
+첫 번째 강의: 파이썬을 활용한 기초 문법
 
 e.g.,
 
