@@ -27,6 +27,7 @@ git add .
 git commit -m "test"
 git push
 ```
+
 3. Github 페이지 반영
 
 ### VSCode로 Python 실행하기
@@ -42,8 +43,8 @@ git push
    주로 jupyer lab을 사용하였다.
 
 참고 사항:
-.ipynb ⇒ 분석가들을 위한 파일
-.py ⇒ 개발자
+- .ipynb ⇒ 분석가들을 위한 파일
+- .py ⇒ 개발자
 
 ### Google Colab으로 Python 실행하기
 클라우드 기반인 Colab에서는 별도의 설치나 자동 환경 설정이 불필요하다.
